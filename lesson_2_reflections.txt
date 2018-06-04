@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository is like "loading" git to an existing directory in your computer. No commits are made and the files are untracked, that means git is not tracking or version controlling the files. You need to initialize a repository to begin tracking changes. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It helps your prepare files before you add them to a repository. It gives you more control on files.
