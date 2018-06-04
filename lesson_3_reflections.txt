@@ -3,3 +3,8 @@ I think you basically want to do this if you are working collaborately in the sa
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you commit when changes are logical ang meaningful, maybe you are working collaborately with other colleagues on Github while working on the files locally on your computer. You dont want Git to sync manually to Github because you might not be ready to save those commits. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are labels you put on commits when your context switching, for example trying new features, trying experiments; once you are done you can merge them back to the main branch (default) to save changes. Clones are literal copies from repositories, they can be from local repos or remote servers (like GIthub). Forks are just like clones but they can copy repos from Github onto Github, they are pretty useful too because you give credit to the original author.  
+
