@@ -1,0 +1,24 @@
+So far this course has helped me realize the importance of keeping different versions of your work and more specifically how to use tools to keep track of these versions. One small typo can have make a huge difference and without tools to check on them in can be super boring to do and all changes could be lost. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You can easily point out your mistakes, see what worked and what didn't in previous work. It literally helps you see how far you've come as a programmer and how far has your work gone. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does? The main advantage of the user choosing WHEN to commit is that each commit/checkpoint is created when a logical and meaningful change has been made to the file. If checkpoints/commits are created every short and random interval of time some checkpoints might not make sense, might be exactly the same as the last checkpoint and just comsuming memory. .
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because it makes sense in the coding scheme to have different files working together for the same purpose. Google docs offers different docs like docs, sheets and slides which may not need to work together. However, like we saw on the example, html and css files NEED to track changes in both files because they are related.
+
+
+How can you use the commands git log and git diff to view the history of files?
+Git log is usegul to see the commit history of the repository, it is specially useful to see the commits ID and the messages to see what changed between commits. Git diff helps us see the changes (what was added and what was deleted) between two commits. Git log helps us explore the checkpoints, git diff helps us see the differences between those checkpoints. 
+
+
+How might using version control make you more confident to make changes that could break something?
+You can be confident that a version before your broke something was saved so you can always go back , everything can be undone. 
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Start version control of the different archives I have created for my thesis. 
+
+
+
