@@ -19,4 +19,6 @@ You have access to the commits made on each branch separtely, is like udpating t
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-The pros of automic merge is that Git knows how to identify changes and orders commits based on time stamps, the cons is that if we allow automatic merge always conflicts may arise and Git may not know how to fix them. Doing merge manually always can be super boring, but doing it manually can help soolve conflicts. 
+The pros of automic merge is that Git knows how to identify changes and orders commits based on time stamps, the cons is that if we allow automatic merge always conflicts may arise and Git may not know how to fix them. Doing merge manually always can be super boring, but doing it manually can help soolve conflicts.
+
+Relfections on pushing local branches to remote repos: FUCKING AWESOME :o 
