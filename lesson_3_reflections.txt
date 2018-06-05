@@ -10,3 +10,6 @@ Branches are labels you put on commits when your context switching, for example 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 That you can see changes since it was last updated, you can see the differences. You can keep working on the repo even if you dont have internet access. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If I am working on code, I wouldnt collaborate if I didnt have access to Git ot Github. Git and Github makes it way easier to collaborate, keep track of changes and resolve conflicts. 
