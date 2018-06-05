@@ -13,3 +13,6 @@ That you can see changes since it was last updated, you can see the differences.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 If I am working on code, I wouldnt collaborate if I didnt have access to Git ot Github. Git and Github makes it way easier to collaborate, keep track of changes and resolve conflicts. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+The master branch should only contain final versions of the work, production quality commits. We use branches to try out new features and make changes, we use branches so we dont directly affect the master. This represents benefits for it allows us to work on separate feature of the same project without losin any work. 
